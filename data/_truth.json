@@ -1,0 +1,41 @@
+{
+  "unique_requests": 2976,
+  "unique_by_first_touch_channel": {
+    "2gis": 336,
+    "offline": 194,
+    "referral": 375,
+    "seo": 500,
+    "vk_ads": 371,
+    "yandex_direct": 885,
+    "yandex_maps": 315
+  },
+  "marketing": {
+    "raw": 2773,
+    "test": 26,
+    "boundary_out": 4,
+    "double_submit": 162,
+    "repeat_call": 260,
+    "other_repeat": 149,
+    "first": 2172
+  },
+  "first_contact_not_in_marketing_dashboard": {
+    "widget": 608,
+    "boundary_in": 2,
+    "marketing": 2172,
+    "walk_in": 194
+  },
+  "crm": {
+    "raw": 3317,
+    "test": 26,
+    "webhook_retry": 71,
+    "repeat_phone": 329,
+    "first": 2891
+  },
+  "not_in_crm": {
+    "lead_in_previous_month": 16,
+    "missed_no_callback": 45,
+    "lost_webhook": 24,
+    "other": 0
+  },
+  "lost_webhook_bookings": 30
+}
