@@ -1,0 +1,8 @@
+channel,spend_rub,reported_leads,requests,visits,reported_cpl,actual_cpl,cost_per_visit,visit_rate_pct
+yandex_direct,420000,1037,885,137,405.0,475.0,3066.0,15.5
+vk_ads,180000,372,371,47,484.0,485.0,3830.0,12.7
+seo,90000,389,500,125,231.0,180.0,720.0,25.0
+2gis,65000,326,336,110,199.0,193.0,591.0,32.7
+yandex_maps,48000,271,315,105,177.0,152.0,457.0,33.3
+referral,0,352,375,159,0.0,0.0,0.0,42.4
+offline,0,0,194,104,,0.0,0.0,53.6
