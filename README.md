@@ -1,6 +1,6 @@
 # Сверка заявок из трёх источников
 
-[![tests](https://github.com/Doomsday058/leads-reconciliation/actions/workflows/tests.yml/badge.svg)](https://github.com/Doomsday058/leads-reconciliation/actions/workflows/tests.yml)
+[![tests](https://github.com/doomsdayoff/leads-reconciliation/actions/workflows/tests.yml/badge.svg)](https://github.com/doomsdayoff/leads-reconciliation/actions/workflows/tests.yml)
 
 Кейс анализа данных для сети стоматологических клиник. Данные синтетические: генератор
 воспроизводит типичные дефекты сбора заявок, а тесты проверяют, что анализ находит их
@@ -150,7 +150,7 @@
    Директу — повтор (140 из 668).
 4. **Идемпотентный приём вебхуков в CRM** по `external_id` — убирает дубли от повторной доставки.
    Как это устроить, разобрано в кейсе
-   [синхронизации записи с CRM](https://github.com/Doomsday058/system-analysis-portfolio/tree/main/case-02-booking-crm-sync).
+   [синхронизации записи с CRM](https://github.com/doomsdayoff/system-analysis-portfolio/tree/main/case-02-booking-crm-sync).
 5. **Мониторинг доставки:** алерт, если записи через виджет есть, а лидов из них нет больше часа.
    Сбой 14–15 августа нашёлся бы в первый час, а не при ретроспективной сверке.
 6. **Регламент перезвона на пропущенные.** 45 человек за месяц не попали в CRM совсем.
